@@ -1,0 +1,10 @@
+#  Funcion Para saludar a un alumno  
+
+
+def Saludar(Nombre, edad):
+	print(" Hola " + Nombre + " Tu edad es: --> " + str(edad))
+
+#  Mandamos a llamar la funcion y le pasamos los parametros 
+
+
+Saludar("Juan Daniel",23)
