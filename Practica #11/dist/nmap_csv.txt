@@ -1,0 +1,33 @@
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;20;ftp-data;closed;;;reset;;3;
+Port 20 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;21;ftp;closed;;;reset;;3;
+Port 21 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;22;ssh;filtered;;;no-response;;3;
+Port 22 is filtered
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;23;telnet;open;Huawei Home Gateway telnetd;;syn-ack;;10;
+Port 23 is open
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;24;priv-mail;closed;;;reset;;3;
+Port 24 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;25;smtp;closed;;;reset;;3;
+Port 25 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;26;rsftp;closed;;;reset;;3;
+Port 26 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;27;nsw-fe;closed;;;reset;;3;
+Port 27 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;28;unknown;closed;;;reset;;3;
+Port 28 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;29;msg-icp;closed;;;reset;;3;
+Port 29 is closed
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.100.28;;;tcp;30;unknown;closed;;;reset;;3;
+Port 30 is closed
